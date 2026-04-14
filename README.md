@@ -1,4 +1,5 @@
 # 🎤 AI Interview Assistant
+![App Screenshot](Screenshot 2026-04-14 162005.png)
 
 ## 📌 Project Description
 This is a web-based AI Interview Assistant built using Python and Streamlit.  
